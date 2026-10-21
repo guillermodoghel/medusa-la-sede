@@ -1,0 +1,75 @@
+{
+    "ver": "0.15.1",
+    "vid": 2507300,
+    "cn": "K\u014dsen",
+    "release": "ESP32",
+    "leds": {
+        "count": 3600,
+        "pwr": 10812,
+        "fps": 21,
+        "maxpwr": 20000,
+        "maxseg": 32,
+        "bootps": 72,
+        "seglc": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "lc": 1,
+        "rgbw": false,
+        "wv": 0,
+        "cct": 0
+    },
+    "str": false,
+    "name": "WLED",
+    "udpport": 21324,
+    "simplifiedui": false,
+    "live": false,
+    "liveseg": -1,
+    "lm": "",
+    "lip": "",
+    "ws": 1,
+    "fxcount": 187,
+    "palcount": 71,
+    "cpalcount": 0,
+    "maps": [
+        {
+            "id": 0
+        }
+    ],
+    "wifi": {
+        "bssid": "40:AE:30:F3:8C:72",
+        "rssi": -52,
+        "signal": 96,
+        "channel": 9,
+        "ap": false
+    },
+    "fs": {
+        "u": 155,
+        "t": 983,
+        "pmt": 1792547941
+    },
+    "ndc": 0,
+    "arch": "esp32",
+    "core": "v3.3.6-16-gcc5440f6a2",
+    "clock": 240,
+    "flash": 4,
+    "lwip": 0,
+    "freeheap": 127204,
+    "uptime": 15275,
+    "time": "2026-10-21, 02:01:18",
+    "u": {
+        "AudioReactive": [
+            "<button class=\"btn btn-xs\" onclick=\"requestJson({AudioReactive:{enabled:true}});\"><i class=\"icons off\">&#xe08f;</i></button>"
+        ]
+    },
+    "opt": 79,
+    "brand": "WLED",
+    "product": "FOSS",
+    "mac": "8857215c5a14",
+    "ip": "192.168.68.55"
+}
